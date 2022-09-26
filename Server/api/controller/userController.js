@@ -1,4 +1,5 @@
 const User = require("../model/User");
+// to register new user
 
 exports.registerNewUser = async (req, res) => {
     try {
